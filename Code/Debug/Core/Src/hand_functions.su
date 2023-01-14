@@ -1,0 +1,14 @@
+hand_functions.c:34:6:HAL_ADC_ConvCpltCallback	16	static
+hand_functions.c:40:6:HAL_TIM_PeriodElapsedCallback	16	static
+hand_functions.c:47:6:HAL_UART_RxCpltCallback	24	static
+hand_functions.c:65:6:hand_functions_init	8	static
+hand_functions.c:76:6:SetMotors	72	static
+hand_functions.c:132:6:Motor	48	static
+hand_functions.c:158:6:user_pwm_setvalue	8	static
+hand_functions.c:172:10:get_sensor	32	static
+hand_functions.c:191:6:get_all_sensors	32	static
+hand_functions.c:216:6:read_msg_pwm	48	static
+hand_functions.c:277:6:read_msg_force	48	static
+hand_functions.c:329:10:sensor_to_force	24	static
+hand_functions.c:338:6:sensors_to_forces	24	static
+hand_functions.c:348:10:force_to_sensor	32	static
